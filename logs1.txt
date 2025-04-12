@@ -1,0 +1,348 @@
+[redundant-connection] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 1/300 done - maximum-coins-from-k-consecutive-bags
+[PROGRESS] ✔ 2/300 done - longest-palindrome
+[PROGRESS] ✔ 3/300 done - single-element-in-a-sorted-array
+[PROGRESS] ✔ 4/300 done - redundant-connection
+[PROGRESS] ✔ 5/300 done - network-delay-time
+[PROGRESS] ✔ 6/300 done - count-number-of-teams
+[PROGRESS] ✔ 7/300 done - sort-array-by-increasing-frequency
+[PROGRESS] ✔ 8/300 done - insertion-sort-list
+[PROGRESS] ✔ 9/300 done - construct-the-minimum-bitwise-array-i
+[PROGRESS] ✔ 10/300 done - sum-of-beauty-in-the-array
+[PROGRESS] ✔ 11/300 done - swap-adjacent-in-lr-string
+[PROGRESS] ✔ 12/300 done - kth-smallest-product-of-two-sorted-arrays
+[PROGRESS] ✔ 13/300 done - string-without-aaa-or-bbb
+[PROGRESS] ✔ 14/300 done - vowels-of-all-substrings
+[PROGRESS] ✔ 15/300 done - exam-room
+[PROGRESS] ✔ 16/300 done - remove-colored-pieces-if-both-neighbors-are-the-same-color
+[PROGRESS] ✔ 17/300 done - word-search
+[PROGRESS] ✔ 18/300 done - lexicographically-smallest-palindrome
+[PROGRESS] ✔ 19/300 done - reconstruct-a-2-row-binary-matrix
+[PROGRESS] ✔ 20/300 done - find-nearest-point-that-has-the-same-x-or-y-coordinate
+[number-of-subsequences-that-satisfy-the-given-sum-condition] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 21/300 done - minimum-number-of-valid-strings-to-form-target-ii
+[PROGRESS] ✔ 22/300 done - the-earliest-and-latest-rounds-where-players-compete
+[PROGRESS] ✔ 23/300 done - delete-nodes-from-linked-list-present-in-array
+[PROGRESS] ✔ 24/300 done - find-the-array-concatenation-value
+[PROGRESS] ✔ 25/300 done - remove-max-number-of-edges-to-keep-graph-fully-traversable
+[PROGRESS] ✔ 26/300 done - invalid-tweets
+[PROGRESS] ✔ 27/300 done - smallest-number-with-all-set-bits
+[PROGRESS] ✔ 28/300 done - largest-local-values-in-a-matrix
+[k-divisible-elements-subarrays] Error during solution list scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 29/300 done - k-divisible-elements-subarrays
+[PROGRESS] ✔ 30/300 done - number-of-subsequences-that-satisfy-the-given-sum-condition
+[PROGRESS] ✔ 31/300 done - adding-two-negabinary-numbers
+[PROGRESS] ✔ 32/300 done - maximum-number-of-moves-in-a-grid
+[PROGRESS] ✔ 33/300 done - last-stone-weight
+[PROGRESS] ✔ 34/300 done - apply-operations-to-an-array
+[PROGRESS] ✔ 35/300 done - lexicographically-smallest-string-after-operations-with-constraint
+[PROGRESS] ✔ 36/300 done - count-substrings-with-k-frequency-characters-i
+[PROGRESS] ✔ 37/300 done - minimum-time-to-visit-a-cell-in-a-grid
+[PROGRESS] ✔ 38/300 done - calculate-digit-sum-of-a-string
+[PROGRESS] ✔ 39/300 done - sales-analysis-iii
+[PROGRESS] ✔ 40/300 done - reorder-routes-to-make-all-paths-lead-to-the-city-zero
+[PROGRESS] ✔ 41/300 done - process-restricted-friend-requests
+[successful-pairs-of-spells-and-potions] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[maximum-candies-allocated-to-k-children] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[timeout-cancellation] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 42/300 done - check-if-the-sentence-is-pangram
+[PROGRESS] ✔ 43/300 done - new-21-game
+[PROGRESS] ✔ 44/300 done - maximum-average-pass-ratio
+[PROGRESS] ✔ 45/300 done - random-point-in-non-overlapping-rectangles
+[PROGRESS] ✔ 46/300 done - minimum-difference-between-highest-and-lowest-of-k-scores
+[PROGRESS] ✔ 47/300 done - build-a-matrix-with-conditions
+[PROGRESS] ✔ 48/300 done - check-if-the-number-is-fascinating
+[PROGRESS] ✔ 49/300 done - consecutive-characters
+[PROGRESS] ✔ 50/300 done - intersection-of-multiple-arrays
+[PROGRESS] ✔ 51/300 done - increment-submatrices-by-one
+[PROGRESS] ✔ 52/300 done - largest-submatrix-with-rearrangements
+[PROGRESS] ✔ 53/300 done - successful-pairs-of-spells-and-potions
+[PROGRESS] ✔ 54/300 done - populating-next-right-pointers-in-each-node
+[PROGRESS] ✔ 55/300 done - reshape-the-matrix
+[PROGRESS] ✔ 56/300 done - smallest-subtree-with-all-the-deepest-nodes
+[PROGRESS] ✔ 57/300 done - timeout-cancellation
+[PROGRESS] ✔ 58/300 done - number-of-restricted-paths-from-first-to-last-node
+[PROGRESS] ✔ 59/300 done - minimum-score-triangulation-of-polygon
+[PROGRESS] ✔ 60/300 done - maximum-amount-of-money-robot-can-earn
+[PROGRESS] ✔ 61/300 done - maximum-candies-allocated-to-k-children
+[find-the-value-of-the-partition] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[minimum-elements-to-add-to-form-a-given-sum] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[minimum-add-to-make-parentheses-valid] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[minimum-add-to-make-parentheses-valid] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 62/300 done - finding-mk-average
+[PROGRESS] ✔ 63/300 done - implement-magic-dictionary
+[PROGRESS] ✔ 64/300 done - find-the-value-of-the-partition
+[PROGRESS] ✔ 65/300 done - split-array-into-maximum-number-of-subarrays
+[PROGRESS] ✔ 66/300 done - minimum-elements-to-add-to-form-a-given-sum
+[PROGRESS] ✔ 67/300 done - employees-with-missing-information
+[PROGRESS] ✔ 68/300 done - maximum-path-quality-of-a-graph
+[PROGRESS] ✔ 69/300 done - time-needed-to-buy-tickets
+[PROGRESS] ✔ 70/300 done - find-elements-in-a-contaminated-binary-tree
+[PROGRESS] ✔ 71/300 done - minimum-difference-between-largest-and-smallest-value-in-three-moves
+[PROGRESS] ✔ 72/300 done - maximum-value-of-k-coins-from-piles
+[PROGRESS] ✔ 73/300 done - number-of-provinces
+[PROGRESS] ✔ 74/300 done - maximum-number-of-operations-with-the-same-score-ii
+[PROGRESS] ✔ 75/300 done - smallest-value-after-replacing-with-sum-of-prime-factors
+[PROGRESS] ✔ 76/300 done - movement-of-robots
+[PROGRESS] ✔ 77/300 done - split-message-based-on-limit
+[PROGRESS] ✔ 78/300 done - maximum-product-of-three-numbers
+[PROGRESS] ✔ 79/300 done - minimum-add-to-make-parentheses-valid
+[PROGRESS] ✔ 80/300 done - most-beautiful-item-for-each-query
+[PROGRESS] ✔ 81/300 done - construct-string-with-repeat-limit
+[numbers-with-repeated-digits] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[count-number-of-nice-subarrays] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[find-the-shortest-superstring] Error during solution content scraping: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[minimum-remove-to-make-valid-parentheses] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[find-the-maximum-sum-of-node-values] Error during solution content scraping: HTTPSConnectionPool(host='leetcode.com', port=443): Max retries exceeded with url: /graphql/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x131b86e90>: Failed to resolve 'leetcode.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[count-prefixes-of-a-given-string] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 82/300 done - 4sum
+[PROGRESS] ✔ 83/300 done - split-the-array
+[PROGRESS] ✔ 84/300 done - minimum-remove-to-make-valid-parentheses
+[PROGRESS] ✔ 85/300 done - count-prefixes-of-a-given-string
+[maximum-trailing-zeros-in-a-cornered-path] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 86/300 done - ipo
+[PROGRESS] ✔ 87/300 done - maximum-trailing-zeros-in-a-cornered-path
+[PROGRESS] ✔ 88/300 done - sort-an-array
+[PROGRESS] ✔ 89/300 done - find-the-maximum-sum-of-node-values
+[PROGRESS] ✔ 90/300 done - maximum-compatibility-score-sum
+[PROGRESS] ✔ 91/300 done - stone-game-vii
+[PROGRESS] ✔ 92/300 done - maximum-earnings-from-taxi
+[PROGRESS] ✔ 93/300 done - minimum-number-of-people-to-teach
+[PROGRESS] ✔ 94/300 done - find-the-shortest-superstring
+[PROGRESS] ✔ 95/300 done - queens-that-can-attack-the-king
+[PROGRESS] ✔ 96/300 done - maximum-number-of-consecutive-values-you-can-make
+[PROGRESS] ✔ 97/300 done - find-x-sum-of-all-k-long-subarrays-i
+[PROGRESS] ✔ 98/300 done - count-number-of-nice-subarrays
+[PROGRESS] ✔ 99/300 done - maximum-population-year
+[PROGRESS] ✔ 100/300 done - the-number-of-full-rounds-you-have-played
+[PROGRESS] ✔ 101/300 done - numbers-with-repeated-digits
+[concatenation-of-consecutive-binary-numbers] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[largest-plus-sign] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[complement-of-base-10-integer] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 102/300 done - complement-of-base-10-integer
+[PROGRESS] ✔ 103/300 done - calculator-with-method-chaining
+[minimum-score-by-changing-two-elements] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 104/300 done - find-the-lexicographically-smallest-valid-sequence
+[PROGRESS] ✔ 105/300 done - largest-plus-sign
+[PROGRESS] ✔ 106/300 done - binary-tree-coloring-game
+[concatenation-of-consecutive-binary-numbers] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 107/300 done - print-in-order
+[PROGRESS] ✔ 108/300 done - maximize-the-number-of-target-nodes-after-connecting-trees-i
+[PROGRESS] ✔ 109/300 done - longest-substring-without-repeating-characters
+[PROGRESS] ✔ 110/300 done - flatten-deeply-nested-array
+[PROGRESS] ✔ 111/300 done - sender-with-largest-word-count
+[PROGRESS] ✔ 112/300 done - patching-array
+[PROGRESS] ✔ 113/300 done - maximum-binary-string-after-change
+[PROGRESS] ✔ 114/300 done - 24-game
+[PROGRESS] ✔ 115/300 done - concatenation-of-consecutive-binary-numbers
+[minimum-number-of-work-sessions-to-finish-the-tasks] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 116/300 done - check-if-it-is-a-good-array
+[PROGRESS] ✔ 117/300 done - product-sales-analysis-iii
+[PROGRESS] ✔ 118/300 done - detonate-the-maximum-bombs
+[PROGRESS] ✔ 119/300 done - minimum-score-by-changing-two-elements
+[PROGRESS] ✔ 120/300 done - fraction-addition-and-subtraction
+[PROGRESS] ✔ 121/300 done - minimum-number-of-work-sessions-to-finish-the-tasks
+[height-of-binary-tree-after-subtree-removal-queries] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 122/300 done - minimum-time-to-make-array-sum-at-most-x
+[PROGRESS] ✔ 123/300 done - painting-a-grid-with-three-different-colors
+[remove-adjacent-almost-equal-characters] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 124/300 done - maximize-happiness-of-selected-children
+[PROGRESS] ✔ 125/300 done - maximum-product-of-two-elements-in-an-array
+[PROGRESS] ✔ 126/300 done - merge-in-between-linked-lists
+[check-if-number-has-equal-digit-count-and-digit-value] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 127/300 done - count-subtrees-with-max-distance-between-cities
+[PROGRESS] ✔ 128/300 done - sum-of-floored-pairs
+[PROGRESS] ✔ 129/300 done - find-the-original-array-of-prefix-xor
+[PROGRESS] ✔ 130/300 done - actors-and-directors-who-cooperated-at-least-three-times
+[PROGRESS] ✔ 131/300 done - group-sold-products-by-the-date
+[PROGRESS] ✔ 132/300 done - find-maximum-number-of-string-pairs
+[PROGRESS] ✔ 133/300 done - maximum-erasure-value
+[PROGRESS] ✔ 134/300 done - smallest-string-with-a-given-numeric-value
+[PROGRESS] ✔ 135/300 done - 
+[PROGRESS] ✔ 136/300 done - largest-1-bordered-square
+[PROGRESS] ✔ 137/300 done - lexicographically-minimum-string-after-removing-stars
+[PROGRESS] ✔ 138/300 done - identify-the-largest-outlier-in-an-array
+[PROGRESS] ✔ 139/300 done - height-of-binary-tree-after-subtree-removal-queries
+[PROGRESS] ✔ 140/300 done - maximum-elegance-of-a-k-length-subsequence
+[PROGRESS] ✔ 141/300 done - check-if-number-has-equal-digit-count-and-digit-value
+[PROGRESS] ✔ 142/300 done - next-greater-element-ii
+[nearest-exit-from-entrance-in-maze] Error during solution content scraping: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[semi-ordered-permutation] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[longest-substring-of-all-vowels-in-order] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 143/300 done - remove-adjacent-almost-equal-characters
+[count-items-matching-a-rule] Error during solution content scraping: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[PROGRESS] ✔ 144/300 done - create-maximum-number
+[PROGRESS] ✔ 145/300 done - symmetric-tree
+[PROGRESS] ✔ 146/300 done - find-valid-emails
+[PROGRESS] ✔ 147/300 done - print-foobar-alternately
+[PROGRESS] ✔ 148/300 done - smallest-index-with-equal-value
+[PROGRESS] ✔ 149/300 done - get-the-size-of-a-dataframe
+[PROGRESS] ✔ 150/300 done - count-items-matching-a-rule
+[PROGRESS] ✔ 151/300 done - type-of-triangle
+[PROGRESS] ✔ 152/300 done - remove-nth-node-from-end-of-list
+[PROGRESS] ✔ 153/300 done - longest-continuous-increasing-subsequence
+[PROGRESS] ✔ 154/300 done - minimum-moves-to-convert-string
+[PROGRESS] ✔ 155/300 done - longest-substring-of-all-vowels-in-order
+[PROGRESS] ✔ 156/300 done - maximum-distance-between-a-pair-of-values
+[PROGRESS] ✔ 157/300 done - semi-ordered-permutation
+[PROGRESS] ✔ 158/300 done - counting-words-with-a-given-prefix
+[PROGRESS] ✔ 159/300 done - matrix-cells-in-distance-order
+[PROGRESS] ✔ 160/300 done - check-if-digits-are-equal-in-string-after-operations-i
+[PROGRESS] ✔ 161/300 done - nearest-exit-from-entrance-in-maze
+[PROGRESS] ✔ 162/300 done - number-of-submatrices-that-sum-to-target
+[minimum-operations-to-make-the-array-increasing] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 163/300 done - number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers
+[PROGRESS] ✔ 164/300 done - check-if-digits-are-equal-in-string-after-operations-ii
+[PROGRESS] ✔ 165/300 done - maximum-number-of-fish-in-a-grid
+[patients-with-a-condition] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 166/300 done - minimum-operations-to-make-the-array-increasing
+[PROGRESS] ✔ 167/300 done - k-concatenation-maximum-sum
+[PROGRESS] ✔ 168/300 done - number-of-rectangles-that-can-form-the-largest-square
+[PROGRESS] ✔ 169/300 done - patients-with-a-condition
+[PROGRESS] ✔ 170/300 done - count-nodes-equal-to-average-of-subtree
+[PROGRESS] ✔ 171/300 done - smallest-subsequence-of-distinct-characters
+[PROGRESS] ✔ 172/300 done - construct-binary-tree-from-inorder-and-postorder-traversal
+[PROGRESS] ✔ 173/300 done - find-the-losers-of-the-circular-game
+[PROGRESS] ✔ 174/300 done - k-diff-pairs-in-an-array
+[PROGRESS] ✔ 175/300 done - smallest-integer-divisible-by-k
+[PROGRESS] ✔ 176/300 done - contain-virus
+[base-7] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 177/300 done - binary-tree-preorder-traversal
+[PROGRESS] ✔ 178/300 done - minimum-sum-of-four-digit-number-after-splitting-digits
+[PROGRESS] ✔ 179/300 done - find-minimum-in-rotated-sorted-array
+[PROGRESS] ✔ 180/300 done - minimize-the-maximum-edge-weight-of-graph
+[PROGRESS] ✔ 181/300 done - falling-squares
+[PROGRESS] ✔ 182/300 done - construct-k-palindrome-strings
+[find-the-number-of-good-pairs-i] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 183/300 done - find-products-of-elements-of-big-array
+[PROGRESS] ✔ 184/300 done - longest-non-decreasing-subarray-from-two-arrays
+[PROGRESS] ✔ 185/300 done - largest-rectangle-in-histogram
+[checking-existence-of-edge-length-limited-paths] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 186/300 done - base-7
+[PROGRESS] ✔ 187/300 done - find-the-k-sum-of-an-array
+[PROGRESS] ✔ 188/300 done - sort-array-by-parity-ii
+[PROGRESS] ✔ 189/300 done - checking-existence-of-edge-length-limited-paths
+[PROGRESS] ✔ 190/300 done - minimum-swaps-to-make-sequences-increasing
+[PROGRESS] ✔ 191/300 done - add-to-array-form-of-integer
+[PROGRESS] ✔ 192/300 done - binary-tree-zigzag-level-order-traversal
+[PROGRESS] ✔ 193/300 done - minimum-swaps-to-group-all-1s-together-ii
+[PROGRESS] ✔ 194/300 done - minimum-white-tiles-after-covering-with-carpets
+[PROGRESS] ✔ 195/300 done - count-anagrams
+[PROGRESS] ✔ 196/300 done - minimize-malware-spread-ii
+[PROGRESS] ✔ 197/300 done - number-of-orders-in-the-backlog
+[PROGRESS] ✔ 198/300 done - minimum-pair-removal-to-sort-array-i
+[PROGRESS] ✔ 199/300 done - find-the-number-of-good-pairs-i
+[PROGRESS] ✔ 200/300 done - find-the-maximum-factor-score-of-array
+[PROGRESS] ✔ 201/300 done - number-of-unique-good-subsequences
+[PROGRESS] ✔ 202/300 done - count-substrings-that-can-be-rearranged-to-contain-a-string-i
+[best-sightseeing-pair] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[best-sightseeing-pair] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 203/300 done - minimum-operations-to-make-the-array-k-increasing
+[PROGRESS] ✔ 204/300 done - number-of-bit-changes-to-make-two-integers-equal
+[PROGRESS] ✔ 205/300 done - minimum-element-after-replacement-with-digit-sum
+[PROGRESS] ✔ 206/300 done - house-robber-iii
+[PROGRESS] ✔ 207/300 done - first-completely-painted-row-or-column
+[PROGRESS] ✔ 208/300 done - ambiguous-coordinates
+[PROGRESS] ✔ 209/300 done - number-of-ways-to-reorder-array-to-get-same-bst
+[PROGRESS] ✔ 210/300 done - count-almost-equal-pairs-ii
+[PROGRESS] ✔ 211/300 done - two-best-non-overlapping-events
+[minimum-operations-to-make-all-array-elements-equal] Error during solution content scraping: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[PROGRESS] ✔ 212/300 done - best-sightseeing-pair
+[PROGRESS] ✔ 213/300 done - count-substrings-that-differ-by-one-character
+[PROGRESS] ✔ 214/300 done - binary-prefix-divisible-by-5
+[PROGRESS] ✔ 215/300 done - remove-outermost-parentheses
+[PROGRESS] ✔ 216/300 done - longest-square-streak-in-an-array
+[PROGRESS] ✔ 217/300 done - design-browser-history
+[PROGRESS] ✔ 218/300 done - delete-duplicate-folders-in-system
+[PROGRESS] ✔ 219/300 done - minimum-cost-to-set-cooking-time
+[PROGRESS] ✔ 220/300 done - reverse-degree-of-a-string
+[PROGRESS] ✔ 221/300 done - maximize-win-from-two-segments
+[largest-positive-integer-that-exists-with-its-negative] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 222/300 done - minimum-operations-to-make-all-array-elements-equal
+[smallest-subarrays-with-maximum-bitwise-or] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[smallest-subarrays-with-maximum-bitwise-or] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 223/300 done - recover-the-original-array
+[PROGRESS] ✔ 224/300 done - score-of-a-string
+[PROGRESS] ✔ 225/300 done - construct-the-minimum-bitwise-array-ii
+[zero-array-transformation-iii] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 226/300 done - zero-array-transformation-iii
+[PROGRESS] ✔ 227/300 done - maximal-rectangle
+[PROGRESS] ✔ 228/300 done - number-of-subarrays-with-bounded-maximum
+[PROGRESS] ✔ 229/300 done - department-highest-salary
+[select-cells-in-grid-with-maximum-score] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 230/300 done - replace-all-s-to-avoid-consecutive-repeating-characters
+[PROGRESS] ✔ 231/300 done - minimum-window-substring
+[PROGRESS] ✔ 232/300 done - maximum-rows-covered-by-columns
+[PROGRESS] ✔ 233/300 done - break-a-palindrome
+[PROGRESS] ✔ 234/300 done - smallest-subarrays-with-maximum-bitwise-or
+[PROGRESS] ✔ 235/300 done - get-the-maximum-score
+[PROGRESS] ✔ 236/300 done - largest-positive-integer-that-exists-with-its-negative
+[PROGRESS] ✔ 237/300 done - minimum-average-difference
+[PROGRESS] ✔ 238/300 done - select-cells-in-grid-with-maximum-score
+[PROGRESS] ✔ 239/300 done - minimum-deletions-to-make-array-beautiful
+[PROGRESS] ✔ 240/300 done - array-reduce-transformation
+[PROGRESS] ✔ 241/300 done - maximum-difference-between-increasing-elements
+[PROGRESS] ✔ 242/300 done - abbreviating-the-product-of-a-range
+[create-components-with-same-value] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 243/300 done - minimum-amount-of-time-to-fill-cups
+[PROGRESS] ✔ 244/300 done - minimum-insertion-steps-to-make-a-string-palindrome
+[PROGRESS] ✔ 245/300 done - minimum-deletions-to-make-string-k-special
+[PROGRESS] ✔ 246/300 done - count-sorted-vowel-strings
+[PROGRESS] ✔ 247/300 done - lemonade-change
+[PROGRESS] ✔ 248/300 done - find-the-difference-of-two-arrays
+[PROGRESS] ✔ 249/300 done - flatten-a-multilevel-doubly-linked-list
+[PROGRESS] ✔ 250/300 done - sort-by
+[PROGRESS] ✔ 251/300 done - maximize-total-cost-of-alternating-subarrays
+[PROGRESS] ✔ 252/300 done - rle-iterator
+[PROGRESS] ✔ 253/300 done - number-of-ways-to-arrive-at-destination
+[PROGRESS] ✔ 254/300 done - random-pick-with-blacklist
+[PROGRESS] ✔ 255/300 done - counter
+[PROGRESS] ✔ 256/300 done - pacific-atlantic-water-flow
+[PROGRESS] ✔ 257/300 done - maximum-product-of-the-length-of-two-palindromic-subsequences
+[PROGRESS] ✔ 258/300 done - create-components-with-same-value
+[PROGRESS] ✔ 259/300 done - number-of-ways-to-split-array
+[count-alternating-subarrays] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 260/300 done - longest-uploaded-prefix
+[PROGRESS] ✔ 261/300 done - count-alternating-subarrays
+[PROGRESS] ✔ 262/300 done - minimum-time-to-repair-cars
+[PROGRESS] ✔ 263/300 done - count-nodes-with-the-highest-score
+[customers-who-bought-all-products] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 264/300 done - serialize-and-deserialize-bst
+[properties-graph] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 265/300 done - count-of-sub-multisets-with-bounded-sum
+[PROGRESS] ✔ 266/300 done - range-sum-of-bst
+[PROGRESS] ✔ 267/300 done - design-an-ordered-stream
+[PROGRESS] ✔ 268/300 done - customers-who-bought-all-products
+[PROGRESS] ✔ 269/300 done - number-complement
+[PROGRESS] ✔ 270/300 done - find-minimum-time-to-reach-last-room-ii
+[PROGRESS] ✔ 271/300 done - minimum-initial-energy-to-finish-tasks
+[PROGRESS] ✔ 272/300 done - concatenated-words
+[PROGRESS] ✔ 273/300 done - max-chunks-to-make-sorted-ii
+[PROGRESS] ✔ 274/300 done - valid-permutations-for-di-sequence
+[PROGRESS] ✔ 275/300 done - minimum-cost-to-reach-destination-in-time
+[PROGRESS] ✔ 276/300 done - find-the-highest-altitude
+[PROGRESS] ✔ 277/300 done - rearrange-array-to-maximize-prefix-score
+[PROGRESS] ✔ 278/300 done - get-equal-substrings-within-budget
+[PROGRESS] ✔ 279/300 done - find-the-child-who-has-the-ball-after-k-seconds
+[PROGRESS] ✔ 280/300 done - maximum-or
+[PROGRESS] ✔ 281/300 done - maximum-size-of-a-set-after-removals
+[PROGRESS] ✔ 282/300 done - move-pieces-to-obtain-a-string
+[PROGRESS] ✔ 283/300 done - cut-off-trees-for-golf-event
+[sum-of-prefix-scores-of-strings] Error during solution content scraping: 520 Server Error:  for url: https://leetcode.com/graphql/
+[PROGRESS] ✔ 284/300 done - properties-graph
+[PROGRESS] ✔ 285/300 done - reorder-list
+[PROGRESS] ✔ 286/300 done - three-equal-parts
+[PROGRESS] ✔ 287/300 done - moving-stones-until-consecutive-ii
+[PROGRESS] ✔ 288/300 done - sum-of-prefix-scores-of-strings
+[PROGRESS] ✔ 289/300 done - check-array-formation-through-concatenation
+[PROGRESS] ✔ 290/300 done - russian-doll-envelopes
+[PROGRESS] ✔ 291/300 done - reordered-power-of-2
+[PROGRESS] ✔ 292/300 done - prime-arrangements
+[PROGRESS] ✔ 293/300 done - minimum-moves-to-move-a-box-to-their-target-location
+[PROGRESS] ✔ 294/300 done - check-balanced-string
+[PROGRESS] ✔ 295/300 done - the-k-strongest-values-in-an-array
+[PROGRESS] ✔ 296/300 done - closest-room
+[PROGRESS] ✔ 297/300 done - maximum-difference-score-in-a-grid
+[PROGRESS] ✔ 298/300 done - maximum-containers-on-a-ship
+[PROGRESS] ✔ 299/300 done - subsequence-with-the-minimum-score
+[PROGRESS] ✔ 300/300 done - last-visited-integers
