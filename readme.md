@@ -2,7 +2,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/leet-scrape.git
+    git clone https://github.com/timetooth/leetcode_scraper.git
     cd leet-scrape
 
 ## How to use
